@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+!.pnp.*
+
+# Parcel bundler output
+/dist
+
