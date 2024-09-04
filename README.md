@@ -1,6 +1,10 @@
 # ✨React Project Swiggy Web App Clone✨. 
 # Hello, friends and professionals! Hope you all are doing great. Here is my latest ✨React Project Swiggy Web App Clone✨.
 
+![image](https://github.com/user-attachments/assets/b51ecb1d-113e-438d-a286-948b509d28ba)
+![image](https://github.com/user-attachments/assets/cdd49ac4-0689-4c29-8aa8-f44ec7e2134a)
+
+
 ## LinkedIn Post
 Check out my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7126995045022318592) to see more details.
 
